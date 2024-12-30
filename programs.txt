@@ -2,3 +2,4 @@ haloce
 chrome
 devenv
 WindowsFormsApp3
+mspaint
